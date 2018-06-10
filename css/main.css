@@ -23,6 +23,8 @@ ul li {
 	margin: 0 10px;
 	text-decoration: none;
 	font-style: white;
+	padding-left: 40px;
+	padding-right: 40px;
 }
 
 a{ color: white; 
@@ -35,3 +37,6 @@ img { display: inline-block;
 }
 
 section{ text-align: center; }
+
+h1 { font-size: 60px;
+	 }
